@@ -2,7 +2,7 @@
 
 # 👋 Hello, World!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+Ishaan+Ghosh+🚀;Full+Stack+Developer+%7C+Robotics+Engineer;Building+the+Future+with+Code+💻&font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&width=700&height=60)](https://github.com/IshaanGhost)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+Ishaan+Ghosh+🚀;Full+Stack+Developer+%7C+Robotics+Engineer;Building+the+Future+with+Code+💻&font=Fira+Code&size=28&duration=2000&pause=1000&color=00D9FF&center=true&width=900&height=70)](https://github.com/IshaanGhost)
 
 </div>
 
